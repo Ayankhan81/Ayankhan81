@@ -1,4 +1,5 @@
-<h1 style="align:center">Hi, I am Ayan Khan from India.</h1>
+<h1 align="center">💫 About Me</h1>
+
 
 # 💫 About Me:
 <br><br>🔭 I’m currently working on building web development projects and practicing manual testing, test case writing, and API testing.<br><br>👯 I’m looking to collaborate on beginner-friendly open-source projects, web development, and software testing projects.<br><br>🤝 I’m looking for help with improving my problem-solving skills, learning industry-standard QA practices, and gaining real-world project experience.<br><br>🌱 I’m currently learning Java, Manual Testing, API Testing, SQL, Jira, and software development fundamentals.<br><br>💬 Ask me about Manual Testing, Test Cases, Test Scenarios, API Testing, Java basics, HTML, CSS, and JavaScript.<br><br>⚡Fun fact  I enjoy finding bugs, exploring how applications work, and turning ideas into practical projects.
